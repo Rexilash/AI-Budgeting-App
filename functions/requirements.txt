@@ -1,0 +1,4 @@
+firebase_functions~=0.1.0
+firebase-admin
+google-generativeai
+requests  #to talk to the currency API
